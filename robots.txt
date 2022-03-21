@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://tbabc.github.io/sitemap.xml
