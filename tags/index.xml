@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>标签 on 我的小站</title>
+    <link>https://blog.tbabc.top/tags/</link>
+    <description>Recent content in 标签 on 我的小站</description>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>zh-CN</language>
+    <copyright>Me</copyright>
+    <lastBuildDate>Sun, 22 Mar 2020 16:18:35 +0800</lastBuildDate>
+    <atom:link href="https://blog.tbabc.top/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>https://blog.tbabc.top/tags/blog/</link>
+      <pubDate>Sun, 22 Mar 2020 16:18:35 +0800</pubDate>
+      <guid>https://blog.tbabc.top/tags/blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>测试</title>
+      <link>https://blog.tbabc.top/tags/%E6%B5%8B%E8%AF%95/</link>
+      <pubDate>Sun, 22 Mar 2020 16:18:35 +0800</pubDate>
+      <guid>https://blog.tbabc.top/tags/%E6%B5%8B%E8%AF%95/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
